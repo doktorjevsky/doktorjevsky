@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doktorjevsky
 - I'm the famous russian author, maybe you've heard of me?
-- CS student @ University of Gothenburg
+- Currently scripting @ Jeppesen ForeFlight in Gotheburg, Sweden
 
 <!---
 doktorjevsky/doktorjevsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
